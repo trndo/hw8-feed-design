@@ -20,7 +20,7 @@ Design Instagram posts feed
 2. Creating and publish post must be fast
 3. 500 million daily active users / 2.5 billion users per month
 4. 95 million posts per day / 2.9 billion posts per month
-- Each tweet averages a fanout of 10% deliveries
+- Each post averages a fanout of 10% of deliveries
 - 9.5 billion delivered on fanout per day / 294.5 billinon per month
 - 10 billion read requests per day / 30 billion per month
 
