@@ -31,7 +31,7 @@ Design Instagram posts feed
 
 ### Calculations
 
-Size per post: ~200KB
+Size per post: 10KB - ~150KB
 # High level design
 ![](flowchart.png)
 
